@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Fresh4kitchen</string>
+
+    <string name="loading">Loading...</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="no_internet">No internet connection please try again</string>
+
+    <string name="deliv_status">Free Delivery for orders more than Rs. 100\n\nOrder Now and Get farm fresh Vegetables and Fruits at your doorsteps.</string>
+    <string name="refer_content">Get 50 Rupees on downloading the application. Also get 50 rupees as reward points on referring this application with your friends &amp; family.</string>
+    <string name="about_us">Fresh4Kitchen is online market providing fresh vegetable, fruits and groceries at your home. The company endeavors to provide wide range of options in every category. All of them are hand-picked and available best quality producers. \n\n\n
+        The company focuses in 3 main pillars \n\n
+        1.\tSelf Assured  \n2.\tConvinces to consumer \n3.\tFresh and quality producer \n\n\n
+        * \tSelf Assured: We assure and check the quality of the products provided by us to our consumer .The assurance is given by the agents and employees for the top grade products. \n\n\n
+        * \tConvinces to consumer:  It is what our company service for. The customer is our priority and satisfaction of our valuable customer is our top most aim to achieve. \n\n\n
+        * \tFresh and quality products: Our Company “Fresh4Kitchen” as name suggest Fresh vegetables, fruits and other products to our customers.  \n\n\n\nFresh4Kitchen is a solution from hard working menial work by carrying heavy loaded bags. This is an easy way to shop your kitchen requirements producers by sitting on your desk. This is a new way to utilize that time of shopping into some other works. Now with the advancement of technology just add to your shopping cart and get them at your door steps .Fresh4Kitchen is easily accessible and comfortable.</string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#25B826</color>
+    <color name="colorPrimaryDark">#10A811</color>
+    <color name="colorAccent">#8B8989</color>
+    <color name="colorAccent2">#E6E2DF</color>
+    <color name="colorAccentdark">#D8CAC9</color>
+    <color name="refer_bg">#DCC9CD</color>
+
+    <color name="white">#ffffff</color>
+    <color name="dul_white">#F4F9F3</color>
+    <color name="loginblock">#F6F6F6</color>
+    <color name="white_trans2">#CEffffff</color>
+    <color name="black">#000000</color>
+    <color name="dak_grey">#363535</color>
+    <color name="grey">#8B8989</color>
+    <color name="grey_light">#B9B6B6</color>
+    <color name="line">#ECE3D9</color>
+    <color name="orange">#F9A029</color>
+    <color name="orange_dark">#F3644B</color>
+    <color name="red">#BB2206</color>
+</resources>
